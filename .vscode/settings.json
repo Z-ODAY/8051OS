@@ -1,0 +1,18 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "STDIO.H": "cpp",
+        "task.h": "c",
+        "stc15.h": "c",
+        "STC15.H": "cpp",
+        "cpu_datatype.h": "c",
+        "main.h": "c",
+        "cpuport.h": "c",
+        "rtos.h": "c",
+        "cpudatatype.h": "c",
+        "c51list.h": "c",
+        "intrins.h": "c",
+        "INTRINS.H": "cpp"
+    },
+    "C_Cpp.errorSquiggles": "Disabled"
+}
